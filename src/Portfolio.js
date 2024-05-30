@@ -7,7 +7,6 @@ import AOS from 'aos';
 //Propósito: Abre el enlace en una nueva pestaña o ventana del navegador.
 //rel="noopener noreferrer"
 //Propósito: Aumenta la seguridad y privacidad cuando se utilizan enlaces con target="_blank".
-
 // Importar las imágenes
 import aboutImage from './assets/imagen21.jpg';
 import skillsImage from './assets/imagen3.avif';
