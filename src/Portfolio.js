@@ -1,8 +1,9 @@
 import React, { useEffect } from 'react';
 import './Portfolio.css';
-import '@fortawesome/fontawesome-free/css/all.min.css';
+import './assets/css/all.min.css'
 import 'aos/dist/aos.css';
 import AOS from 'aos';
+
 //target="_blank"
 //Propósito: Abre el enlace en una nueva pestaña o ventana del navegador.
 //rel="noopener noreferrer"
